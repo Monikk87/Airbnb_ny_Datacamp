@@ -1,4 +1,4 @@
-data/airbnb_price.csv This is a CSV file containing data on Airbnb listing prices and locations.
+**data/airbnb_price.csv** This is a CSV file containing data on Airbnb listing prices and locations.
 
 listing_id: unique identifier of listing
 price: nightly listing price in USD
